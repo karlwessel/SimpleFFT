@@ -1,0 +1,8 @@
+name = "SimpleFFT"
+uuid = "633b7e2a-c702-11e8-33ef-3f53be14ecab"
+authors = ["Karl Wessel <karl.wessel@stud.uni-goettingen.de>"]
+version = "0.1.0"
+
+[deps]
+AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
